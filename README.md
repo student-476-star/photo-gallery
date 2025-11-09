@@ -1,27 +1,31 @@
-PROJECT 1: DESIGN OF INTERACTIVE IMAGE GALLERY
-AIM:
+<h1>PROJECT 1: DESIGN OF INTERACTIVE IMAGE GALLERY</h1>
+
+
+<h3>AIM:</h3>
     To design a web application for an inteactive image gallery with minimum five images.
     
-DESIGN STEPS:
-Step 1:
+<h3>DESIGN STEPS:</h3>
+<h4>Step 1:</h4>
 Clone the github repository and create Django admin interface.
 
-Step 2:
+<h4>Step 2:</h4>
 Change settings.py file to allow request from all hosts.
 
-Step 3:
+<h4>Step 3:</h4>
 Use CSS for positioning and styling.
 
-Step 4:
+<h4>Step 4:</h4>
 Write JavaScript program for implementing interactivity.
 
-Step 5:
+<h4>Step 5:</h4>
 Validate the HTML and CSS code.
 
-Step 6:
+<h4>Step 6:</h4>
 Publish the website in the given URL.
 
-PROGRAM:
+<h3>PROGRAM:</h3>
+
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -133,7 +137,7 @@ PROGRAM:
 ```
 
 
-OUTPUT:
+<h3>OUTPUT:</h3>
 <img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/bdb0fd39-45eb-4b29-9157-c58ea32cb4c3" />
 <img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/f8203437-c679-42b2-a818-bef9b59a0c5f" />
 <img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/690f5398-f7b7-4215-819d-51ad5fdfa935" />
@@ -143,7 +147,7 @@ OUTPUT:
 
 
 
-RESULT:
+<h3>RESULT:</h3>
 
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
 
